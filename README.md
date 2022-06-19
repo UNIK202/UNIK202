@@ -19,21 +19,13 @@ View repository and user information, control your notifications and even manage
 
 A few of the things you can do with GitPoint:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
+* Fysiske tjenester & produkter. (F2F)
+* Digitale tjenester & produkter. (DS)
 * Review and merge pull requests
 * Create new issues
 * Star, watch and fork repositories
 * Control your unread and participating notifications
 * Easily search for any user or repository
-
-## Feedback
-
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
 
 ## Contributors
 
