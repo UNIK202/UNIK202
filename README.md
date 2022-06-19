@@ -1,11 +1,3 @@
-KEYBASE: UNIK202
-SURESPOT: UNIK202\
-###### BSC: 0x25483879372EE30D2349787e2D7e99152564C925
-###### ADA: addr1q965zj9nak3ktud6waffpzzn3fq8a7jcr2kcp0975ypuv88t26gtfawvphk4ulg4znqrdvd0n6udt2nw8dmf6jcemsys7vu45a
-###### XMR: 8A4V8cPEbC94qND4ySkaTnBgShAE73Qgh8HP1VKN1zybXCWZ78G5Ev5QhQwWH5aY2qVZPYseN1f4q28oXmADSFjdK7Rp1AA
-
-## UNIK:OSLO 
-
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
@@ -13,27 +5,22 @@ SURESPOT: UNIK202\
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+## UNIK:OSLO
+
+View repository and user information, control your notifications and even manage your issues and pull requests.\
+Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
 
 ## TJENESTER
 
 A few of the things you can do with GitPoint:
 
-* Fysiske tjenester & produkter. (F2F)
-* Digitale tjenester & produkter. (DS)
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
-
-## Contributors
-
-This project follows the [all-contributors](https://github.com/unikoslo/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+* `FYSISKE PRODUKTER` (F2F) = Alkohol, Sigaretter, Piratkopier.
+* `DIGITALE PRODUKTER` (DS) = Gavekort, Kryptovaluta.
+* `EKSOTISKE PRODUKTER` (TOR+F2F) = Bruk nøtta selv.
 
 ## SIKKERHET FØRST!
 
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
+- Les: [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) før du tar kontakt!
 - Clone or download the repo
 - `yarn` to install dependencies
 - `yarn run link` to link react-native dependencies
@@ -47,4 +34,9 @@ Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a det
 ## KUNNGJØRINGER
 
 Skrevet av: [UNIK:202](https://unik202.github.io/)\
-TOR Web: [UNIK:OSLO TOR](https://onion.site/).
+TOR Web: [UNIK:OSLO TOR](https://onion.site/)\
+KEYBASE: UNIK202\
+SURESPOT: UNIK202\
+###### BSC: 0x25483879372EE30D2349787e2D7e99152564C925
+###### ADA: addr1q965zj9nak3ktud6waffpzzn3fq8a7jcr2kcp0975ypuv88t26gtfawvphk4ulg4znqrdvd0n6udt2nw8dmf6jcemsys7vu45a
+###### XMR: 8A4V8cPEbC94qND4ySkaTnBgShAE73Qgh8HP1VKN1zybXCWZ78G5Ev5QhQwWH5aY2qVZPYseN1f4q28oXmADSFjdK7Rp1AA
