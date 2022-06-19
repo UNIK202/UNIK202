@@ -4,31 +4,7 @@ SURESPOT: UNIK202\
 ###### ADA: addr1q965zj9nak3ktud6waffpzzn3fq8a7jcr2kcp0975ypuv88t26gtfawvphk4ulg4znqrdvd0n6udt2nw8dmf6jcemsys7vu45a
 ###### XMR: 8A4V8cPEbC94qND4ySkaTnBgShAE73Qgh8HP1VKN1zybXCWZ78G5Ev5QhQwWH5aY2qVZPYseN1f4q28oXmADSFjdK7Rp1AA
 
-
-<h1 align="center"> UNIK:202 </h1> <br>
-<p align="center">
-  <a href="https://unikoslo.github.io/">
-    <img alt="UNIK:202" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
-  </a>
-</p>
-
-<p align="center">
-  GitHub in your pocket. Built with React Native.
-</p>
-
-<p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
-  </a>
-
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-  </a>
-</p>
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+## UNIK:OSLO
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -51,12 +27,6 @@ SURESPOT: UNIK202\
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
-
-**Available for both iOS and Android.**
-
-<p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
-</p>
 
 ## Features
 
@@ -88,7 +58,7 @@ If there's anything you'd like to chat about, please feel free to join our [Gitt
 
 ## Contributors
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+This project follows the [all-contributors](https://github.com/unikoslo/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
 
 ## Build Process
 
